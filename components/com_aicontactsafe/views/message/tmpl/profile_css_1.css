@@ -1,0 +1,83 @@
+div#aiContactSafe_mainbody {
+	margin-left:auto;
+	margin-right:auto;
+}
+table#aiContactSafeForm {
+	margin-left:auto;
+	margin-right:auto;
+}
+
+div#aiContactSafe_info {
+	margin-bottom:10px;
+}
+div#div_captcha {
+	clear:both;
+	text-align:left;
+	margin:5px 0px;
+}
+
+div.countdown_div {
+	font-size:9px;
+}
+input.countdown_editbox {
+	font-size:9px;
+	text-align:center;
+	border:none;
+	overflow:visible;
+}
+label {
+	cursor:pointer;
+}
+
+table#aiContactSafeForm td {
+	padding:5px;
+	vertical-align:top;
+}
+
+label.required_field {
+	text-align:left;
+	vertical-align:top;
+	margin-left:5px;
+}
+
+div.aiContactSafe_row {
+	clear:both;
+}
+div.aiContactSafe_contact_form_field_label_left {
+	float:left;
+	padding:1px 3px;
+}
+div.aiContactSafe_contact_form_field_left {
+	float:left;
+	padding:1px 3px;
+}
+
+div.aiContactSafe_contact_form_field_label_right {
+	float:left;
+	padding:1px 3px;
+	margin-top:2px;
+}
+div.aiContactSafe_contact_form_field_right {
+	float:right;
+	padding:1px 3px;
+}
+
+div#aiContactSafeBtns {
+	width:100%;
+}
+div#aiContactSafeBtns input {
+	padding:5px;
+	margin:0px;
+}
+div#aiContactSafeBtns div {
+	float:right;
+	margin-right:5px;
+}
+
+div#div_captcha {
+	clear:both;
+	padding-top:10px;
+}
+div#div_captcha_info {
+	margin-bottom:5px;
+}

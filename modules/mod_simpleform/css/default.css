@@ -1,0 +1,76 @@
+form.simpleForm{margin:10px 0;}
+form.simpleForm p{margin:10px 0;}
+form.simpleForm label{display:block;}
+form.simpleForm input[type=text], form.simpleForm textarea {width:200px; border: 1px solid #000;}
+form.simpleForm .zapis select{width:212px; border: 1px solid #000;}
+form.simpleForm .zapis label:first-child{
+	display: inline-block;
+	width: 265px;
+	vertical-align: top;
+}
+form.simpleForm .zapis input:first-child {
+	width: 265px;
+}
+form.simpleForm .zapis input:focus {
+	border: 1px solid rgb(255, 102, 46);
+	color: rgb(255, 102, 46);
+}
+form.simpleForm .zapis input:focus::selection {
+	background: rgb(255, 102, 46);
+	color: #fff;
+}
+form.simpleForm .zapis input:focus::-moz-selection {
+	background: rgb(255, 102, 46);
+	color: #fff;
+}
+form.simpleForm .zapis select:focus {
+	border: 1px solid rgb(255, 102, 46);
+}
+form.simpleForm .zapis select:focus::selection {
+	background: rgb(255, 102, 46);
+	color: #fff;
+}
+form.simpleForm .zapis select:focus::-moz-selection {
+	background: rgb(255, 102, 46);
+	color: #fff;
+}
+form.simpleForm .zapis option:focus::-moz-selection {
+	background: rgb(255, 102, 46);
+	color: #fff;
+}
+form.simpleForm .zapis textarea:focus {
+	border: 1px solid rgb(255, 102, 46);
+	color: rgb(255, 102, 46);
+}
+form.simpleForm .zapis textarea:focus::selection {
+	background: rgb(255, 102, 46);
+	color: #fff;
+}
+form.simpleForm .zapis textarea:focus::-moz-selection {
+	background: rgb(255, 102, 46);
+	color: #fff;
+}
+form.simpleForm .zapis select, form.simpleForm .zapis label, form.simpleForm .zapis input, form.simpleForm .zapis textarea {
+	padding: 5px;
+	display: inline;
+}
+.scriptzapis {
+	/*display: none;*/
+}
+.btnzapis input {
+	background: rgb(104, 133, 151);
+	color: rgb(255, 255, 255);
+	padding: 13px;
+	border: 2px solid transparent;
+	margin-right: 5%;
+	margin-left: 5%;
+	border-radius: 25px;
+	font-weight: bolder;
+	cursor: pointer;
+	font-size: 14px;
+}
+.btnzapis input:hover {
+	border: 2px solid rgb(104, 133, 151);
+	color: rgb(104, 133, 151);
+	background: rgb(255, 255, 255);
+}

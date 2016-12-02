@@ -1,0 +1,5 @@
+2016.06.09 15:22:36	1	Начало импорта БД `0`
+2016.06.09 15:22:36	1	Файл: localhost.sql
+2016.06.09 15:22:36	1	Установлена кодировка соединения: `utf8mb4`
+2016.06.09 15:22:36	1	Импорт таблицы `jos_aicontactsafe_config`
+2016.06.09 15:22:36	4	MySQL Error: No database selected (C:\\OpenServer\\domains\\reghosp\\sxd\\index.php:1594)

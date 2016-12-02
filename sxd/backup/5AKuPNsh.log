@@ -1,0 +1,57 @@
+2016.06.09 15:23:17	1	Начало импорта БД `reghosp`
+2016.06.09 15:23:17	1	Файл: localhost.sql
+2016.06.09 15:23:17	1	Установлена кодировка соединения: `utf8mb4`
+2016.06.09 15:23:17	1	Импорт таблицы `jos_aicontactsafe_config`
+2016.06.09 15:23:17	1	Импорт таблицы `jos_aicontactsafe_contactinformations`
+2016.06.09 15:23:17	1	Импорт таблицы `jos_aicontactsafe_fields`
+2016.06.09 15:23:17	1	Импорт таблицы `jos_aicontactsafe_messagefiles`
+2016.06.09 15:23:17	1	Импорт таблицы `jos_aicontactsafe_messages`
+2016.06.09 15:23:18	1	Импорт таблицы `jos_aicontactsafe_profiles`
+2016.06.09 15:23:18	1	Импорт таблицы `jos_banner`
+2016.06.09 15:23:18	1	Импорт таблицы `jos_bannerclient`
+2016.06.09 15:23:18	1	Импорт таблицы `jos_bannertrack`
+2016.06.09 15:23:18	1	Импорт таблицы `jos_categories`
+2016.06.09 15:23:18	1	Импорт таблицы `jos_ckfields`
+2016.06.09 15:23:18	1	Импорт таблицы `jos_ckforms`
+2016.06.09 15:23:18	1	Импорт таблицы `jos_ckforms_1`
+2016.06.09 15:23:18	1	Импорт таблицы `jos_components`
+2016.06.09 15:23:18	1	Импорт таблицы `jos_contact_details`
+2016.06.09 15:23:18	1	Импорт таблицы `jos_content`
+2016.06.09 15:23:20	1	Импорт таблицы `jos_content_frontpage`
+2016.06.09 15:23:21	1	Импорт таблицы `jos_content_rating`
+2016.06.09 15:23:21	1	Импорт таблицы `jos_core_acl_aro`
+2016.06.09 15:23:21	1	Импорт таблицы `jos_core_acl_aro_groups`
+2016.06.09 15:23:22	1	Импорт таблицы `jos_core_acl_aro_map`
+2016.06.09 15:23:22	1	Импорт таблицы `jos_core_acl_aro_sections`
+2016.06.09 15:23:22	1	Импорт таблицы `jos_core_acl_groups_aro_map`
+2016.06.09 15:23:22	1	Импорт таблицы `jos_core_log_items`
+2016.06.09 15:23:22	1	Импорт таблицы `jos_core_log_searches`
+2016.06.09 15:23:22	1	Импорт таблицы `jos_dbcache`
+2016.06.09 15:23:22	1	Импорт таблицы `jos_extwebdav_locks`
+2016.06.09 15:23:22	1	Импорт таблицы `jos_extwebdav_properties`
+2016.06.09 15:23:22	1	Импорт таблицы `jos_groups`
+2016.06.09 15:23:22	1	Импорт таблицы `jos_jf_content`
+2016.06.09 15:23:22	1	Импорт таблицы `jos_jf_languages`
+2016.06.09 15:23:22	1	Импорт таблицы `jos_jf_languages_ext`
+2016.06.09 15:23:22	1	Импорт таблицы `jos_jf_tableinfo`
+2016.06.09 15:23:23	1	Импорт таблицы `jos_languages`
+2016.06.09 15:23:23	1	Импорт таблицы `jos_menu`
+2016.06.09 15:23:23	1	Импорт таблицы `jos_menu_types`
+2016.06.09 15:23:23	1	Импорт таблицы `jos_messages`
+2016.06.09 15:23:23	1	Импорт таблицы `jos_messages_cfg`
+2016.06.09 15:23:23	1	Импорт таблицы `jos_migration_backlinks`
+2016.06.09 15:23:23	1	Импорт таблицы `jos_modules`
+2016.06.09 15:23:23	1	Импорт таблицы `jos_modules_menu`
+2016.06.09 15:23:23	1	Импорт таблицы `jos_newsfeeds`
+2016.06.09 15:23:23	1	Импорт таблицы `jos_plugins`
+2016.06.09 15:23:23	1	Импорт таблицы `jos_poll_data`
+2016.06.09 15:23:23	1	Импорт таблицы `jos_poll_date`
+2016.06.09 15:23:23	1	Импорт таблицы `jos_poll_menu`
+2016.06.09 15:23:24	1	Импорт таблицы `jos_polls`
+2016.06.09 15:23:24	1	Импорт таблицы `jos_sections`
+2016.06.09 15:23:24	1	Импорт таблицы `jos_session`
+2016.06.09 15:23:24	1	Импорт таблицы `jos_stats_agents`
+2016.06.09 15:23:24	1	Импорт таблицы `jos_templates_menu`
+2016.06.09 15:23:24	1	Импорт таблицы `jos_users`
+2016.06.09 15:23:24	1	Импорт таблицы `jos_weblinks`
+2016.06.09 15:23:24	4	MySQL Error: Access denied; you need (at least one of) the SUPER privilege(s) for this operation (C:\\OpenServer\\domains\\reghosp\\sxd\\index.php:1594)

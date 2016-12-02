@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="module" version="1.5.0">
+        <name>mod_order</name>
+        <creationDate>2015</creationDate>
+        <author>gordoney</author>
+        <authorEmail>akravchenko@medialine.by</authorEmail>
+        <version>0.1</version>
+        <description>order</description>
+        <files>
+                <filename module="mod_order">mod_order.php</filename>
+                <filename>mod_order.xml</filename>
+        </files>
+	    <config>
+            <fields name="params">
+			    <fieldset name="order" label="Заказ">
+					<field name="recipient" type="text"
+						label="email"
+						description="email"/>
+					<field name="thanks" type="text"
+						label="Текст после заказа"
+						description="Текст после заказа"/>							
+				</fieldset>
+				<fieldset name="advanced">
+					<field
+						name="moduleclass_sfx"
+						type="text"
+						label="COM_MODULES_FIELD_MODULECLASS_SFX_LABEL"
+						description="COM_MODULES_FIELD_MODULECLASS_SFX_DESC" />
+				</fieldset>
+			</fields>
+        </config>
+
+</install>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.5" type="template">
+	<name>ugokb</name>
+	<version>1.2.0</version>
+	<creationDate>12/26/07</creationDate>
+	<author>JoomlArt.com</author>
+	<authorEmail>webmaster@joomlart.com</authorEmail>
+	<authorUrl>http://www.joomlart.com</authorUrl>
+	<copyright></copyright>
+	<license>GNU/GPL version 2</license>
+	<description>JA PURITY DESCRIPTION</description>
+<files>
+		<filename>component.php</filename>
+		<filename>css/index.html</filename>
+		<filename>favicon.ico</filename>
+		<filename>html/com_content/article/default.php</filename>
+		<filename>html/com_content/article/index.html</filename>
+		<filename>html/com_content/category/blog_item.php</filename>
+		<filename>html/com_content/category/index.html</filename>
+		<filename>html/com_content/frontpage/default_item.php</filename>
+		<filename>html/com_content/frontpage/index.html</filename>
+		<filename>html/com_content/index.html</filename>
+		<filename>html/com_content/section/blog_item.php</filename>
+		<filename>html/com_content/section/index.html</filename>
+		<filename>html/index.html</filename>
+		<filename>html/modules.php</filename>
+		<filename>html/mod_banners/default.php</filename>
+		<filename>html/mod_banners/index.html</filename>
+		<filename>html/mod_login/default.php</filename>
+		<filename>html/mod_login/index.html</filename>
+		<filename>html/pagination.php</filename>
+		<filename>images/icons_license.txt</filename>
+		<filename>images/index.html</filename>
+		<filename>index.html</filename>
+		<filename>index.php</filename>
+		<filename>ja_templatetools.php</filename>
+		<filename>ja_vars.php</filename>
+		<filename>js/ja.cssmenu.js</filename>
+		<filename>js/ja.moomenu.js</filename>
+		<filename>js/ja.rightcol.js</filename>
+		<filename>js/ja.script.js</filename>
+		<filename>params.ini</filename>
+		<filename>styles/background/index.html</filename>
+		<filename>styles/background/lighter/images/index.html</filename>
+		<filename>styles/background/lighter/index.html</filename>
+		<filename>styles/background/purewhite/images/index.html</filename>
+		<filename>styles/background/purewhite/index.html</filename>
+		<filename>styles/elements/black/images/index.html</filename>
+		<filename>styles/elements/black/index.html</filename>
+		<filename>styles/elements/index.html</filename>
+		<filename>styles/elements/red/images/index.html</filename>
+		<filename>styles/elements/red/index.html</filename>
+		<filename>styles/header/blue/images/index.html</filename>
+		<filename>styles/header/blue/index.html</filename>
+		<filename>styles/header/green/images/index.html</filename>
+		<filename>styles/header/green/index.html</filename>
+		<filename>styles/header/index.html</filename>
+		<filename>styles/index.html</filename>
+		<filename>templateDetails.xml</filename>
+	</files>
+	<positions>
+		<position>top_left_text</position>
+		<position>top_right_text</position>
+		<position>top_menu</position>
+		<position>left_menu</position>
+		<position>cop_link</position>
+		<position>cop_text</position>
+        <position>copy</position>
+		<position>form_citizen</position>
+		<position>form_organization</position>
+		<position>forms</position>
+	</positions>
+</install>

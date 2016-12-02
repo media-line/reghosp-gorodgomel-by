@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[New Project]]></data>
+
+
+
+  <data name="en_pano63_title"><![CDATA[Опеационная]]></data>
+  <data name="en_spotpoint84_tooltip"><![CDATA[Лампа]]></data>
+  <data name="en_spotpoint87_tooltip"><![CDATA[Лампа]]></data>
+  <data name="en_spotpoint88_tooltip"><![CDATA[Операционный стол]]></data>
+  <data name="en_spotpoint89_tooltip"><![CDATA[Операционный стол]]></data>
+  <data name="en_spotpoint90_tooltip"><![CDATA[Вытяжка]]></data>
+  <data name="en_spotpoint91_tooltip"><![CDATA[Лампа]]></data>
+  <data name="en_spotpoint92_tooltip"><![CDATA[Подогрев стола]]></data>
+
+
+
+
+
+
+  <data name="en_controlBar_classiczoomInTip"><![CDATA[Увеличить]]></data>
+  <data name="en_controlBar_classiczoomOutTip"><![CDATA[Уменьшить]]></data>
+  <data name="en_controlBar_classicmoveLeftTip"><![CDATA[Влево]]></data>
+  <data name="en_controlBar_classicmoveRightTip"><![CDATA[Вправо]]></data>
+  <data name="en_controlBar_classicmoveUpTip"><![CDATA[Вверх]]></data>
+  <data name="en_controlBar_classicmoveDownTip"><![CDATA[Вниз]]></data>
+  <data name="en_controlBar_classicopenFsTip"><![CDATA[Увеличить]]></data>
+  <data name="en_controlBar_classiccloseFsTip"><![CDATA[Уменьшить]]></data>
+  <data name="en_controlBar_classicdisplayControlsTip"><![CDATA[Показать панель управления]]></data>
+  <data name="en_controlBar_classichideControlsTip"><![CDATA[Скрыть панель управления]]></data>
+
+
+
+
+
+</krpano>

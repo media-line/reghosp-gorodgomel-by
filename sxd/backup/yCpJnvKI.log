@@ -1,0 +1,5 @@
+2016.06.10 11:59:49	1	Начало импорта БД `reghost_base`
+2016.06.10 11:59:49	1	Файл: localhost.sql
+2016.06.10 11:59:49	1	Установлена кодировка соединения: `utf8mb4`
+2016.06.10 11:59:49	1	Импорт таблицы `jos_aicontactsafe_config`
+2016.06.10 11:59:49	4	MySQL Error: Duplicate entry \'1\' for key \'PRIMARY\' (/home/reghost/domains/reghosp.gorodgomel.by/public_html/sxd/index.php:1594)
