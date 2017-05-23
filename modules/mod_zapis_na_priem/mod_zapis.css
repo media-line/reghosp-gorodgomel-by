@@ -1,0 +1,46 @@
+.contentpaneopen {
+    width: 100%;
+}
+
+.zapis {
+    display: flex;
+    flex-direction: column;
+}
+
+.input {
+    margin: 10px 0;
+    display: flex;
+    align-items: center;
+}
+
+.input textarea, .input input, .input select {
+    width: 250px;
+    height: 30px;
+    padding: 3px 10px;
+}
+
+.input select {
+    padding: 0 10px;
+    width: 272px;
+}
+
+.input textarea {
+    height: 100px;
+}
+
+.input label, .spec label:first-child {
+    width: 200px;
+    display: inline-block;
+}
+
+input[type='radio'] {
+    width: 35px;
+}
+
+.spec label {
+    width: auto;
+}
+
+#maindoc {
+    display: none;
+}

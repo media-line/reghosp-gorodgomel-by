@@ -11,7 +11,7 @@ $options = array('style' => 'xhtml'); ?>
 <div class="mod_form_gr zapis priem">
 	<div class="toggle">Запись на прием<span class="arrow_top show">&#9650;</span><span class="arrow_bottom">&#9660;</span></div>
 	<div class="form">
-		<?php $position = 'zapis_na_priem';
+		<?php $position = 'mod_zapis_na_priem';
 		echo $renderer->render($position, $options, null); ?>
 	</div>
 </div>
@@ -19,7 +19,7 @@ $options = array('style' => 'xhtml'); ?>
 <div class="mod_form_gr zapis priem plat">
 	<div class="toggle">Запись на платный прием<span class="arrow_top show">&#9650;</span><span class="arrow_bottom">&#9660;</span></div>
 	<div class="form">
-		<?php $position = 'zapis_na_priem';
+		<?php $position = 'mod_zapis_na_priem';
 		echo $renderer->render($position, $options, null); ?>
 	</div>
 </div>
@@ -27,7 +27,7 @@ $options = array('style' => 'xhtml'); ?>
 <div class="mod_form_gr zapis otkaz">
 	<div class="toggle">Отказ от записи на прием<span class="arrow_top show">&#9650;</span><span class="arrow_bottom">&#9660;</span></div>
 	<div class="form">
-		<?php $position = 'zapis_na_priem';
+		<?php $position = 'mod_zapis_na_priem';
 		echo $renderer->render($position, $options, null); ?>
 	</div>
 </div>
@@ -35,7 +35,7 @@ $options = array('style' => 'xhtml'); ?>
 <div class="mod_form_gr zapis otkaz plat">
 	<div class="toggle">Отказ от записи на платный прием<span class="arrow_top show">&#9650;</span><span class="arrow_bottom">&#9660;</span></div>
 	<div class="form">
-		<?php $position = 'zapis_na_priem';
+		<?php $position = 'mod_zapis_na_priem';
 		echo $renderer->render($position, $options, null); ?>
 	</div>
 </div>

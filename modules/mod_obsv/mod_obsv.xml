@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="module" version="1.5.0">
+        <name>mod_obsv</name>
+        <creationDate>2017</creationDate>
+        <author>rakatanui</author>
+        <authorEmail>akravchenko@medialine.by</authorEmail>
+        <version>0.0.1</version>
+        <description>Модуль обратной связи</description>
+        <files>
+                <filename module="mod_obsv">mod_obsv.php</filename>
+                <filename>mod_obsv.xml</filename>
+                <filename>helper.php</filename>
+                <filename>mod_obsv.xml</filename>
+				<folder>tmpl</folder>
+        </files>
+	    <config>
+        </config>
+
+</install>

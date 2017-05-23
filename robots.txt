@@ -12,3 +12,5 @@ Disallow: /modules/
 Disallow: /plugins/
 Disallow: /templates/
 Disallow: /xmlrpc/
+
+Host: http://www.reghosp.gorodgomel.by

@@ -84,7 +84,7 @@ body > #wrap {height: auto; min-height: 230%; width:1128px; margin:0 auto; backg
 /* End hide from IE-mac */
 
 
-/* формы */
+/* пїЅпїЅпїЅпїЅпїЅ */
 .contentpaneopen form + div {
   display: none;
 }
@@ -242,4 +242,61 @@ body > #wrap {height: auto; min-height: 230%; width:1128px; margin:0 auto; backg
 	border: 2px solid rgb(103, 232, 70);
 	color: rgb(103, 232, 70);
 	background: #fff;
+}
+
+.formobsv {
+	display: flex;
+	flex-direction: column;
+	background-color: rgb(199, 212, 224);
+	width: 50%;
+	margin: 0 auto;
+	padding: 20px 50px;
+}
+
+.formobsv li {
+	list-style: none;
+	display: flex;
+	flex-direction: column;
+	padding: 5px;
+}
+
+.formobsv li input, .formobsv li textarea {
+	border: none;
+	padding: 5px;
+}
+
+.formobsv section {
+	display: flex;
+	flex-direction: column;
+}
+
+.formobsv section li:first-child {
+	border-top: 1px solid #fff;
+	padding-top: 20px;
+}
+
+.formobsv section li:last-child {
+	padding-bottom: 20px;
+}
+
+.btn-form {
+	position: initial;
+	top: 0;
+	width: 40%;
+	font-size: 100%;
+	margin: 0 auto;
+	margin-top: 30px;
+}
+
+.formline {
+	border-top: 1px solid #ffffcc;
+}
+
+.formradio {
+	display: flex;
+	flex-direction: row;
+}
+
+.formradio input {
+	margin-right: 15px;
 }

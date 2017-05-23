@@ -4,6 +4,9 @@
     <option name="servers">
       <webServer id="ba553035-de2d-4383-b6c5-ca986ea1e60a" name="reghosp.gorodgomel.by" url="http://reghosp-gorodgomel-by/">
         <fileTransfer host="ftp.reghosp.gorodgomel.by" port="21" rootFolder="/domains/reghosp.gorodgomel.by/public_html">
+          <advancedOptions>
+            <advancedOptions passiveMode="true" />
+          </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
